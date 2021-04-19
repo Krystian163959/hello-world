@@ -1,1 +1,3 @@
 To jest przykładowy plik do reporytorium.
+
+To jest zmiana pliku test.txt
